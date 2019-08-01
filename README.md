@@ -12,10 +12,10 @@ Tkinter
 ![alt studentmanagementgui](https://github.com/Akash885/STUDENT-MANAGEMENT-SYSTEM/blob/master/studentmanagementgui.png)
 
 2-
-! [alt studentdatabase](https://github.com/Akash885/STUDENT-MANAGEMENT-SYSTEM/blob/master/studentdatabase.png)
+![alt studentdatabase](https://github.com/Akash885/STUDENT-MANAGEMENT-SYSTEM/blob/master/studentdatabase.png)
 
 3-
-! [alt error1](https://github.com/Akash885/STUDENT-MANAGEMENT-SYSTEM/blob/master/error1.png)
+![alt error1](https://github.com/Akash885/STUDENT-MANAGEMENT-SYSTEM/blob/master/error1.png)
 
 4-
-! [alt datasaved](https://github.com/Akash885/STUDENT-MANAGEMENT-SYSTEM/blob/master/datasaved.png)
+![alt datasaved](https://github.com/Akash885/STUDENT-MANAGEMENT-SYSTEM/blob/master/datasaved.png)
