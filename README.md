@@ -9,7 +9,7 @@ Tkinter
 ## SCREENSHOT-
 
 1-
-! [alt studentmanagementgui](https://github.com/Akash885/STUDENT-MANAGEMENT-SYSTEM/blob/master/studentmanagementgui.png)
+![alt studentmanagementgui](https://github.com/Akash885/STUDENT-MANAGEMENT-SYSTEM/blob/master/studentmanagementgui.png)
 
 2-
 ! [alt studentdatabase](https://github.com/Akash885/STUDENT-MANAGEMENT-SYSTEM/blob/master/studentdatabase.png)
